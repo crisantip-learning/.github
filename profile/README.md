@@ -1,5 +1,3 @@
-# 📚 crisantip-learning
-
 Este espacio está dedicado a mi **aprendizaje personal en desarrollo de software**.
 Aquí documento mi progreso, prácticas, ejercicios, pruebas de concepto y proyectos mientras aprendo distintas tecnologías y herramientas del ecosistema moderno.
 
